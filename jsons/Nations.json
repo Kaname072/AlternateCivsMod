@@ -24,8 +24,9 @@
 		"innerColor": [255,255,255],
 		"uniqueName": "Seven Seas King",
 		"uniques": [
-			"[+2 Gold] from each Trade Route",
-			"[-100]% maintenance costs <for [Land] units> <when not at war>",
+			"[+2 Gold] from every [Coast]",
+			"[+30]% Strength <vs [Cities]>",
+			"[+30]% Production when constructing [Military] units",
 			"Comment [Cannot found more than one city]",
 			"Cannot build [Settler] units <hidden from users>",
 			"[Settler] units gain the [Impossible to Settler] promotion <when number of [Cities] is more than [0]> <hidden from users>"
