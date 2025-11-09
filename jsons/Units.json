@@ -15,18 +15,20 @@
 		"attackSound": "shot"
 	},
 	{
-		"name": "Captain",
+		"name": "Pirate Ship",
 		"uniqueTo": "Pirates",
-		"replaces": "Great Admiral",
-		"unitType": "Civilian Water",
-		"uniques": [
-            // TODO: "[Every adjacent [{Friendly} {Water}] unit] heals [100] HP <by consuming this unit>",
-			"All adjacent units heal [+15] HP when healing",
-            "May Paradrop to [{your} {Coastal} {City center}] tiles up to [25] tiles away <in [City center] tiles>", // Change Port
-            "[+15]% Strength bonus for [{Military} {Water}] units within [2] tiles",
-			"Can be earned through combat <for [Water] units>",
-            "Is part of Great Person group [Admiral]",
-            "Great Person - [War]", "Unbuildable", "Uncapturable"],
-		"movement": 4
+		"replaces": "Frigate",
+		"unitType": "Ranged Water",
+		"movement": 4,
+		"strength": 25,
+		"rangedStrength": 28,
+		"cost": 185,
+		"uniques": ["[+200]% Strength <vs [Cities]> <when attacking>"],
+		"requiredResource": "Iron",
+		"requiredTech": "Navigation",
+		"obsoleteTech": "Electronics",
+		"upgradesTo": "Battleship",
+		"hurryCostModifier": 20,
+		"attackSound": "shipCannonVolley"
 	}
 ]
