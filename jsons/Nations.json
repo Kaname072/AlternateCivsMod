@@ -23,9 +23,9 @@
 		"outerColor": [16,16,16],
 		"innerColor": [255,255,255],
 		"uniqueName": "Seven Seas King",
-		"uniques": ["[Captain] is earned [50]% faster",
+		"uniques": ["[Great Admiral] is earned [50]% faster",
 			"[50]% Health from pillaging tiles",
-			"Cannot build [Settler]",
+			"Cannot build [Settler] units",
 			"[Settler] units gain the [Impossible to Settler] promotion <when number of [Cities] is more than [0]> <hidden from users>"],
 		"cities": ["Queen Anne's Revenge"]
 	}
