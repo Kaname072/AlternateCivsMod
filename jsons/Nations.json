@@ -28,7 +28,7 @@
 			"[-100]% maintenance costs <for [Land] units> <when not at war>",
 			"Comment [Cannot found more than one city]",
 			"Cannot build [Settler] units <hidden from users>",
-			"[Settler] units gain the [Impossible to Settler] promotion <when number of [Cities] is more than [0]> <hidden from users>"],
+			"[Settler] units gain the [Impossible to Settler] promotion <when number of [Cities] is more than [0]> <hidden from users>"
 		],
 		"cities": ["Queen Anne's Revenge"]
 	}
