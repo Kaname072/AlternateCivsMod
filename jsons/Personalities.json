@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Edward Teach",
+    "production": 6,
+    "food": 5,
+    "gold": 9,
+    "science": 6,
+    "culture": 2,
+    "happiness": 8,
+    "faith": 1,
+    "military": 9,
+    "aggressive": 8,
+    "declareWar": 9,
+    "commerce": 7,
+    "diplomacy": 2,
+    "loyal": 5,
+    "expansion": 6,
+    "priorities": {
+      "Tradition": 3,
+      "Liberty": 2,
+      "Honor": 7,
+      "Commerce": 5,
+      "Patronage": 1,
+      "Piety": 2,
+      "Rationalism": 4,
+      "Freedom": 2,
+      "Autocracy": 8,
+      "Order": 4
+    }
+  }
+]
