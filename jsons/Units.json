@@ -13,22 +13,5 @@
 		"upgradesTo": "Rifleman",
 		"obsoleteTech": "Rifling",
 		"attackSound": "shot"
-	},
-	{
-		"name": "Pirate Ship",
-		"uniqueTo": "Pirates",
-		"replaces": "Frigate",
-		"unitType": "Ranged Water",
-		"movement": 4,
-		"strength": 25,
-		"rangedStrength": 28,
-		"cost": 185,
-		"uniques": ["[+200]% Strength <vs [Cities]> <when attacking>"],
-		"requiredResource": "Iron",
-		"requiredTech": "Navigation",
-		"obsoleteTech": "Electronics",
-		"upgradesTo": "Battleship",
-		"hurryCostModifier": 20,
-		"attackSound": "shipCannonVolley"
 	}
 ]
