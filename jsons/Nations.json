@@ -23,13 +23,13 @@
 		"outerColor": [16,16,16],
 		"innerColor": [255,255,255],
 		"uniqueName": "Seven Seas King",
-		"uniques": ["[+2 Gold] from each Trade Route",
-			"[+100]% [Luxury resource] resource production",
-			"Gain [45] Influence with a [Water] gift to a City-State",
-			"[-66]% maintenance costs <for [{Military} {Land}] units>",
-			"Comment [Cannot found more than one city]",
-			"Cannot build [Settler] units <hidden from users>",
-			"[Settler] units gain the [Impossible to Settler] promotion <when number of [Cities] is more than [0]> <hidden from users>"],
+		"uniques": [
+			"[+2 Gold] from each Trade Route",
+			"[-100]% maintenance costs <for [Land] units> <when not at war>",
+			"\"Borrows\" city names from other civilizations in the game",
+			"May buy items in puppet cities",
+			"May not annex cities"
+		],
 		"cities": ["Queen Anne's Revenge"]
 	}
 ]
