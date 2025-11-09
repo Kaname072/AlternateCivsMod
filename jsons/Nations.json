@@ -24,9 +24,11 @@
 		"innerColor": [255,255,255],
 		"uniqueName": "Seven Seas King",
 		"uniques": ["[+2 Gold] from each Trade Route",
-			"[+50]% Strength <for [Water] units> <when attacking> <vs [Cities]>",
-			"[-50]% maintenance costs <for [Military] units>",
-			"Cannot build [Settler] units",
+			"[+100]% [Luxury resource] resource production",
+			"Gain [45] Influence with a [Water] gift to a City-State",
+			"[-66]% maintenance costs <for [{Military} {Land}] units>",
+			"Comment [Cannot found more than one city]",
+			"Cannot build [Settler] units <hidden from users>",
 			"[Settler] units gain the [Impossible to Settler] promotion <when number of [Cities] is more than [0]> <hidden from users>"],
 		"cities": ["Queen Anne's Revenge"]
 	}
