@@ -24,7 +24,7 @@
 		"innerColor": [255,255,255],
 		"uniqueName": "Seven Seas King",
 		"uniques": ["\"Borrows\" city names from other civilizations in the game",
-		"[Settler] units gain the [Impossible to Settler] promotion <when the number of [Cities] is more than [0]>"],
+		"[Settler] units gain the [Impossible to Settler] promotion <when number of [Cities] is more than [0]>"],
 		"cities": ["Queen Anne's Revenge"]
 	}
 ]
