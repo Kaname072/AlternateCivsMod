@@ -4,7 +4,6 @@
 		"uniqueTo": "Pirates",
 		"replaces": "Monument",
 		"culture": 2,
-		"gold": 2,
 		"cost": 40,
 		"hurryCostModifier": 40,
 		"maintenance": 0,
