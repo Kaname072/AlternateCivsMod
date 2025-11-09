@@ -1,5 +1,9 @@
 [
   {
+    "name": "[Pirate] ability",
+    "uniques": ["May attack when embarked","[+25]% Strength <vs [Water] units>","[+50]% Health from pillaging tiles"]
+  },
+  {
     "name": "Impossible to Settler",
     "uniques": ["Cannot move"]
   }
