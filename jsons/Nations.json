@@ -24,9 +24,9 @@
 		"innerColor": [255,255,255],
 		"uniqueName": "Pirate Terror",
 		"uniques": [
-			"[+200]% Yield from every [Improvement]",
 			"[Military] units gain the [Pirate Member] promotion",
-			"Notified of new Barbarian encampments",
+			"[+200]% Yield from every [Improvement] <when number of [Cities] is less than [2]>",
+			"When conquering an encampment, earn [25] Gold and recruit a Barbarian unit",
 			"Comment [Cannot found more than one city]",
 			"Cannot build [Settler] units <hidden from users>",
 			"[Settler] units gain the [Impossible to Settler] promotion <when number of [Cities] is more than [0]> <hidden from users>",
