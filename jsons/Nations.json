@@ -22,11 +22,9 @@
 
 		"outerColor": [16,16,16],
 		"innerColor": [255,255,255],
-		"uniqueName": "Seven Seas King",
+		"uniqueName": "Pirate Terror",
 		"uniques": [
-			"[+2 Gold] from every [Coast]",
-			"[+30]% Strength <vs [Cities]>",
-			"[+30]% Production when constructing [Military] units",
+			"[+100]% Yield from [Improvement]",
 			"Comment [Cannot found more than one city]",
 			"Cannot build [Settler] units <hidden from users>",
 			"[Settler] units gain the [Impossible to Settler] promotion <when number of [Cities] is more than [0]> <hidden from users>"
