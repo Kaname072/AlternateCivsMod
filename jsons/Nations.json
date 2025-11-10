@@ -24,12 +24,13 @@
 		"innerColor": [255,255,255],
 		"uniqueName": "Pirate Terror",
 		"uniques": [
-			"[+100]% Yield from every [Improvement]",
-			"[+100]% Yield from pillaging tiles",
+			"[+200]% Yield from every [Improvement]",
+			"[Military] units gain the [Pirate Member] promotion",
 			"Notified of new Barbarian encampments",
 			"Comment [Cannot found more than one city]",
 			"Cannot build [Settler] units <hidden from users>",
-			"[Settler] units gain the [Impossible to Settler] promotion <when number of [Cities] is more than [0]> <hidden from users>"
+			"[Settler] units gain the [Impossible to Settler] promotion <when number of [Cities] is more than [0]> <hidden from users>",
+			"[Conquistador] units gain the [Impossible to Settler] promotion <hidden from users>"
 		],
 		"cities": ["Queen Anne's Revenge"]
 	}
