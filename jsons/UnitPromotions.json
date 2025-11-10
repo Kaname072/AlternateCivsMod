@@ -5,7 +5,7 @@
   },
   {
     "name": "Pirate Member",
-    "uniques": ["[+25]% Strength <when attacking> <vs [Cities]>","Can enter foreign tiles without open borders"]
+    "uniques": ["[+25]% Strength <when attacking> <vs cities>","May enter foreign tiles without open borders"]
   },
   {
     "name": "Impossible to Settler",
